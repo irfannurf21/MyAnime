@@ -1,0 +1,36 @@
+
+
+
+.menu .card {
+    background-color: #996161;
+    color: white;
+    
+    
+}
+.menu .card .card-title {
+    margin-top: 10px;
+}
+
+.menu .card img {
+    border: 2px solid red;
+}
+
+.menu .card img {
+    height: 300px; 
+}
+
+/* erased html */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 70%;
+    
+}
+
+
+/* Footer */
+footer {
+    background-color: black;
+}
